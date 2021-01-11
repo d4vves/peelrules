@@ -1,1 +1,1 @@
-# peelrules
+# [peelrules](http://peelrules.com/)
